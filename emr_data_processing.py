@@ -9,4 +9,4 @@ result.write.option("header", True).csv("s3://your-s3-bucket-name/output/")
 
 print("Processing completed and result saved to S3.")
 spark.stop()
-# Python script for emr_data_processing.py
+
